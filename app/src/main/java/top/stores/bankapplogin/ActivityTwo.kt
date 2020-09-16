@@ -25,6 +25,6 @@ class ActivityTwo : AppCompatActivity() {
             finish()
         }
 
-        Toast.makeText(this, "Login Success", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Login Success!!", Toast.LENGTH_LONG).show()
     }
 }
